@@ -17,4 +17,5 @@ packaging/*tar.xz
 library/debian/
 .coverage
 .pytest_cache
-.tox
+.to
+examples/capturasx
